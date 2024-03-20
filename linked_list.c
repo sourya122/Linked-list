@@ -17,7 +17,7 @@ void last_delete();
 void random_delete();
 void display();
 void search();
-void reverse(); // NOT IN LAB CLASS ,ONLY IN THEORY CLASS.
+void reverse(); 
 int main()
 {
     int choice = 0;
@@ -54,7 +54,7 @@ int main()
             display();
             break;
         case 9:
-            reverse(); // Calling the function to reverse the linked list
+            reverse(); 
             break;
         case 10:
             exit(0);
