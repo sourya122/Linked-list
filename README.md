@@ -1,5 +1,8 @@
 # Linked-list
-This is the code for the single linked list,here you get various function.Such as :
+This is the code for the single linked
+
+ list,here you get various function.Such as :
+
 1. begin-insert,
 2. end-insert,
 3. random-insert,
@@ -8,5 +11,6 @@ This is the code for the single linked list,here you get various function.Such a
 6. random-delete,
 7. seaech,
 8. display,
-9. reverse etc function.
+9. reverse.
+
 This in coded using c program.
